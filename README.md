@@ -1,5 +1,9 @@
 # Responsive Portfolio Project <br>
 
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
 
 
 #### Project Repo and GitHub links: <br>
