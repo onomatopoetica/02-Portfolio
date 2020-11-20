@@ -1,0 +1,42 @@
+/* Body */
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Heart SVG in navbar-brand */
+
+.heart {
+    fill: red;
+    position: relative;
+    top: 5px;
+    width: 50px;
+    animation: pulse 1s ease infinite;
+  }
+  
+  @keyframes pulse {
+    0% { transform: scale(.5); }
+    50% { transform: scale(1); }
+    100% { transform: scale(.5); }
+  }
+
+  .row {
+    margin-top: 10px;
+  }
+
+/* Horizontal rule above footer   */
+
+hr {
+    background-color: red;
+    height: 3px;
+}
+
+/* Footer */
+
+footer {
+    width: 100%;
+    height: 40px;
+    padding-bottom: 10px;
+}
+
+
