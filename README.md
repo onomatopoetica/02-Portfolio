@@ -25,8 +25,9 @@
 <details>
     <summary>Fun Fact</summary>
     The red dobermans in the artwork are my own (four-legged) children.
+    <img src="Assets/Images/ScarlettRouxbe2.png" alt="contact page screenshot" width="500" height="auto">
 </details>
-
+<br>
 
 #### The following are screenshots of the portfolio and overview of its functionality:
 
