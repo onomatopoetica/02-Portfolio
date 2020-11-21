@@ -4,11 +4,6 @@
 
 # Responsive Portfolio Project <br>
 
-<details>
-    <summary>Table of Contents</summary>
-    
-</details>
-
 ## Responsive Portfolio Project Using CSS and Bootstrap
 
 ---
@@ -18,20 +13,32 @@
 #### Completion of the acceptance criteria provided the following items:
 #####   - An index (or homepage), portfolio page and contact page.
 #####   - A consistent navbar across all three pages containing links to all website pages.
-#####   - All links must be working links.
+#####   - All links are working links.
 #####   - Each page has valid and correct HTML.
 #####   - Semantic HTML elements which follow a logical structure.
 #####   - Personalized information (bio, name, images, links to social media, etc.).
 #####   - Proper use of Bootstrap components and grid system.
 #####   - A sticky footer.
-#####   - Sub-row and/or sub-columns.
+#####   - Sub-rows and/or sub-columns.
+
+<br>
+<details>
+    <summary>Fun Fact</summary>
+    The red dobermans in the artwork are my own (four-legged) children.
+</details>
+
 
 #### The following are screenshots of the portfolio and overview of its functionality:
 
-<img src=“/Assets/Images/Home.png" alt=“portfolio homepage” title="screenshot" width="auto" height="850"/>
+<img src="Assets/Images/Home.png" alt="portfolio homepage screenshot" title="screenshot" width="700" height="auto">
+<img src="Assets/Images/Portfolio.png" alt="portfolio page screenshot" title="screenshot" width="700" height="auto">
+<img src="Assets/Images/Contact.png" alt="contact page screenshot" title="screenshot" width="700" height="auto">
+
   
 #### Articles and sites which contributed toward the successful completion of this project are included below:
 
+[MDBootstrap](https://mdbootstrap.com/docs/jquery/forms/contact/) <br>
+[GetBootstrap](https://getbootstrap.com/docs/4.0/) <br>
 [Semantic HTML](https://www.pluralsight.com/guides/semantic-html)  <br>
 [Learn CSS Layout](https://learnlayout.com/no-layout.html) <br>
 [How To Style Images With Markdown Blog](https://www.xaprb.com/blog/how-to-style-images-with-markdown/) <br>
