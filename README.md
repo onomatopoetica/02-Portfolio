@@ -24,16 +24,15 @@
 <img src="Assets/Images/Portfolio.png" alt="portfolio page screenshot" title="screenshot" width="700" height="auto">
 <img src="Assets/Images/Contact.png" alt="contact page screenshot" title="screenshot" width="700" height="auto">
 
-<br>
+
 <br>
 <details>
     <summary>Fun Fact</summary>
     The red dobermans in the artwork are my own (four-legged) children.
     <img src="Assets/Images/ScarlettRouxbe2.png" alt="contact page screenshot" align="left" width="600" height="auto">
 </details>
+<br>
 
-<br>
-<br>
   
 #### Articles and sites which contributed toward the successful completion of this project are included below:
 
