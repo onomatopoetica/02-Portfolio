@@ -1,11 +1,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/onomatopoetica?label=Follow&style=social)    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/onomatopoetica/01-homework)    ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fonomatopoetica.github.io%2F01-homework%2F)  ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)  ![GitHub watchers](https://img.shields.io/github/watchers/onomatopoetica/01-homework?label=Watch&style=social)
 
 ---
-
 # Responsive Portfolio Project <br>
-
 ## Responsive Portfolio Project Using CSS and Bootstrap
-
 ---
 
 #### This was a project creating a responsive portfolio using CSS3 and Bootstrap 4. The project scope sought a responsive design ensuring the portfolio rendered well on a variety of devices. 
