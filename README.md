@@ -8,12 +8,12 @@
 #### This was a project creating a responsive portfolio using CSS3 and Bootstrap 4. The project scope sought a responsive design ensuring the portfolio rendered well on a variety of devices. 
 
 #### Completion of the acceptance criteria provided the following items:
-#####   - An index (or homepage), portfolio page and contact page.
+#####   - An index (homepage), portfolio page and contact page.
 #####   - A consistent navbar across all three pages containing links to all website pages.
-#####   - All links are working links.
+#####   - All links are working.
 #####   - Each page has valid and correct HTML.
-#####   - Semantic HTML elements which follow a logical structure.
-#####   - Personalized information (bio, name, images, links to social media, etc.).
+#####   - Semantic HTML elements are used which follow a logical structure.
+#####   - Personalized information included bio, name, images, links to social media, etc.
 #####   - Proper use of Bootstrap components and grid system.
 #####   - A sticky footer.
 #####   - Sub-rows and/or sub-columns.
