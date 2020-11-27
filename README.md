@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/onomatopoetica?label=Follow&style=social)    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/onomatopoetica/01-homework)   ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)  ![GitHub watchers](https://img.shields.io/github/watchers/onomatopoetica/01-homework?label=Watch&style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/onomatopoetica/01-homework)   ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome)  ![GitHub watchers](https://img.shields.io/github/watchers/onomatopoetica/01-homework?label=Watch&style=social)
 
 ---
 # Responsive Portfolio Project <br>
